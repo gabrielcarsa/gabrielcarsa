@@ -1,9 +1,8 @@
 # Olá, sou o Gabriel
 
-- 💼 Atualmente trabalho por conta própria com desenvolvimento de sites e pequenos sistemas web para empresas que estão começando.
-- 📚 Estou aprendendo Flutter, Laravel
 - 📬 Contato: gabrielcardsantos2016@gmail.com
-- 🎵 Toco Piano e Violino.
+- 🎵 Amo tocar piano e violino.
+- Todo dia aprendendo alguma coisa.
 
 <div align="center">
   <a href="https://github.com/gabrielcarsa">

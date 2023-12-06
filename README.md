@@ -1,7 +1,6 @@
 # Olá, sou o Gabriel
 
 - 📬 Contato: gabrielcardsantos2016@gmail.com
-- 🎵 Amo tocar piano e violino.
 - Todo dia aprendendo alguma coisa.
 
 <div align="center">

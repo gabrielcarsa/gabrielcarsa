@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Cardoso</h1>
+<h1 align="center">Olá, eu sou o Gabriel Cardoso 👋</h1>
 
 <p align="center">
   Desenvolvedor em constante evolução, construindo soluções para web e mobile.
@@ -31,16 +31,11 @@
 ## Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcarsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Gabriel" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcarsa&theme=dracula&hide_border=true" alt="Sequência de contribuições de Gabriel" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarsa&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais usadas por Gabriel" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcarsa&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
+  <img src="./github-metrics.svg" alt="Métricas e atividade no GitHub de Gabriel" />
 </p>
 
 ## Vamos conversar
